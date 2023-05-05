@@ -1,2 +1,4 @@
-# ckbweekly
-Nervos Weekly 字节元周刊
+# CKB Weekly
+# 字节元周刊（by Nervos Chinese Community CKBFans)
+
+
